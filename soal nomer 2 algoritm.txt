@@ -1,0 +1,5 @@
+Adjacent matrix adalah matriks persegi yang entrinya hanya 0 dan 1. Pada matriks adjacency dari suatu graf berarah, entri 1 menyatakan terdapat suatu busur berarah yang menghubungkan simpul ke simpul,
+ sedangkan entri 0 menyatakan tidak ada busur berarah yang menghubungkan simpul ke simpul
+
+djiktsra algoritma adalah adalah sebuah algoritma yang dipakai dalam memecahkan permasalahan jarak terpendek
+ (shortest path problem) untuk sebuah graf berarah (directed graph).
